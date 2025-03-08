@@ -574,7 +574,7 @@ export default function Home() {
             viewport={{ once: false }}
           >
             <img
-              src="/toppers/anuraj.jpg"
+              src="/toppers/Anuraj.jpg"
               alt="Anuraj Jain"
               className={styles.topperImage}
             />
@@ -589,7 +589,7 @@ export default function Home() {
             viewport={{ once: false }}
           >
             <img
-              src="/toppers/pari.jpg"
+              src="/toppers/Pari.jpg"
               alt="Pari Bishnoi"
               className={styles.topperImage}
             />
